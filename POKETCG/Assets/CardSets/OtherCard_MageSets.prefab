@@ -1679,7 +1679,7 @@ MonoBehaviour:
   damage: 0
   getArmor: 0
   getMiss: 0
-  hill: 10
+  hill: 5
   armorBreak: 0
   effect: {fileID: 0}
   effectSelf: {fileID: 2596747480546710006, guid: dde7ea4de037ff449bd31a83006eb353,
