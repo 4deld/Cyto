@@ -304,8 +304,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 6475619113382153458, guid: 065367ebee8bc1646bcee4c5f8b54292,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -533,7 +534,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " \uC804\uACA9"
+  m_Text: "  \uC804\uACA9"
 --- !u!1 &1671626766253046497
 GameObject:
   m_ObjectHideFlags: 0
@@ -608,8 +609,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 6475619113382153458, guid: 065367ebee8bc1646bcee4c5f8b54292,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -696,7 +698,7 @@ MonoBehaviour:
   getMiss: 0
   hill: 0
   armorBreak: 0
-  effect: {fileID: 507053710686218628, guid: 6af0d063f7770d84b850ab08e15752e5, type: 3}
+  effect: {fileID: 9208075685645852280, guid: b2730707c4c4f024285e375884962d54, type: 3}
   effectSelf: {fileID: 0}
 --- !u!114 &7430780076675045205
 MonoBehaviour:
@@ -832,8 +834,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 6475619113382153458, guid: 065367ebee8bc1646bcee4c5f8b54292,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1501,7 +1504,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 120, y: 40}
+  m_CellSize: {x: 130, y: 40}
   m_Spacing: {x: 10, y: 10}
   m_Constraint: 0
   m_ConstraintCount: 2
@@ -1669,8 +1672,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 6475619113382153458, guid: 065367ebee8bc1646bcee4c5f8b54292,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1757,9 +1761,8 @@ MonoBehaviour:
   getMiss: 0
   hill: 0
   armorBreak: 1
-  effect: {fileID: 0}
-  effectSelf: {fileID: 2596747480546710006, guid: dde7ea4de037ff449bd31a83006eb353,
-    type: 3}
+  effect: {fileID: 525637959613858364, guid: f1df7c280a2eb3943b79f3ee4840d71f, type: 3}
+  effectSelf: {fileID: 0}
 --- !u!114 &6986121057305363657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1899,7 +1902,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " \uB300\uD3ED\uBC1C"
+  m_Text: "  \uB300\uD3ED\uBC1C"
 --- !u!1 &6010359120665489923
 GameObject:
   m_ObjectHideFlags: 0
@@ -2288,7 +2291,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " \uD0C0\uACA9"
+  m_Text: "  \uD0C0\uACA9"
 --- !u!1 &7045417297110054697
 GameObject:
   m_ObjectHideFlags: 0
@@ -2595,7 +2598,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " \uD654\uC5FC\uAD6C"
+  m_Text: "  \uD654\uC5FC\uAD6C"
 --- !u!1 &7846662846984571694
 GameObject:
   m_ObjectHideFlags: 0
@@ -2745,8 +2748,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 6475619113382153458, guid: 065367ebee8bc1646bcee4c5f8b54292,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3133,7 +3137,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: " \uC790\uAC00\uCE58\uC720"
+  m_Text: "  \uC790\uAC00\uCE58\uC720"
 --- !u!1 &9063616789606678489
 GameObject:
   m_ObjectHideFlags: 0
