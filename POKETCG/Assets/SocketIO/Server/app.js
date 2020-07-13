@@ -20,7 +20,7 @@ var CK = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 var playing = [0,0,0,0,0,0,0,0,0,0]
 var key
 
-
+ 
 io.on('connection', socket=>{
 	
 	socket.on("joinRoom",data=> {
