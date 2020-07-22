@@ -44,7 +44,7 @@ public class CardManager : MonoBehaviour
         socket = go.GetComponent<SocketIOComponent>();
 
 
-        socket.On("joinRoom", joinRoom);
+        //socket.On("joinRoom", joinRoom);
 
         socket.On("OpponentCard", (SocketIOEvent e) => {
             Debug.Log(string.Format("[name: {0}, data: {1}]", e.name, e.data));
@@ -136,17 +136,16 @@ public class CardManager : MonoBehaviour
     //    socket.Emit("beep");
     //}
 
-    public void joinRoom(SocketIOEvent e)
-    {
-        //joinRoom이 발생하면 room 번호를 받고 keyidx에 room번호를 넣는다
-        String a = string.Format(e.data[0].ToString());
-        a = a.Replace('"', ' ');
-        a = a.Trim();
-        keyidx = int.Parse(a);
-        Debug.Log(keyidx);
-        key["key"] = keyidx.ToString();
-        Debug.Log("joinRoom " +"||" + e.data);
-    }
+    //public void joinRoom(SocketIOEvent e)
+    //{
+    //    //joinRoom이 발생하면 room 번호를 받고 keyidx에 room번호를 넣는다
+    //    String a = string.Format(e.data[0].ToString());
+    //    a = a.Replace('"', ' ');
+    //    a = a.Trim();
+    //    keyidx = int.Parse(a);
+    //    key["key"] = keyidx.ToString();
+    //    Debug.Log("joinRoom " +"||" + e.data + "||" + e);
+    //}
 
 
 

@@ -54,7 +54,7 @@ public class SocketManager : MonoBehaviour
         keyidx = int.Parse(a);
         key["key"] = keyidx.ToString();
         PlayerPrefs.SetString("key", key["key"]);
-        Debug.Log("joinRoom " + "||" + e.data);
+        Debug.Log("joinRoom " + "||" + e.data + "||" + this.gameObject.name);
     }
     public void CancleJoin() // 취소버튼 누르면 실행
     {
